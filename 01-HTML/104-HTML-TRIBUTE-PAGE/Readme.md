@@ -1,4 +1,3 @@
-
 # Project : Tribute Page
 ## Preview
 ![image](./Images/Screenshot%202022-09-17%20at%2012.32.10%20PM.png)
